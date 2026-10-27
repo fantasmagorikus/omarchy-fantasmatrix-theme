@@ -1,0 +1,38 @@
+# Fantasmatrix — paleta derivada da skin importada em 27/10/2026.
+mode = "dark"
+
+accent = "#00FF00"
+selection = "#003300"
+selection_background = "#003300"
+selection_foreground = "#E8FFE8"
+muted = "#007700"
+
+background = "#000000"
+dark_background = "#000500"
+darker_background = "#000000"
+lighter_background = "#001A00"
+
+# Verde claro para leitura longa; verde puro para foco e ações.
+foreground = "#B8FFB8"
+dark_foreground = "#00AA44"
+light_foreground = "#D4FFD4"
+bright_foreground = "#E8FFE8"
+
+hyprland_active_border = "rgba(00ff00ee)"
+hyprland_inactive_border = "rgba(00770066)"
+
+red = "#FF4444"
+yellow = "#AAFF00"
+orange = "#D4E86B"
+green = "#00FF00"
+cyan = "#00FF99"
+blue = "#55CC99"
+magenta = "#80DDAA"
+brown = "#336633"
+
+bright_red = "#FF7777"
+bright_yellow = "#D4FF77"
+bright_green = "#66FF66"
+bright_cyan = "#99FFCC"
+bright_blue = "#88EEBB"
+bright_magenta = "#B8FFD4"

@@ -1,0 +1,139 @@
+# Fantasmatrix / estilo terminal. Cores concretas: este arquivo não é template.
+# A fonte e o tamanho pessoais do Omarchy continuam tendo prioridade.
+
+[bar]
+background = "#000500"
+background-alpha = 0.20
+text = "#00FF00"
+active = "#AAFF00"
+scale-with-font = true
+size-horizontal = 26
+size-vertical = 28
+
+[hyprland]
+active-border = "#00FF00"
+active-border-foreground = "#00FF00"
+
+[controls]
+normal-color = "#B8FFB8"
+normal-fill-alpha = 0.025
+normal-border = "#007700"
+normal-border-width = 1
+normal-border-alpha = 0.65
+hover-cursor-color = "#00FF00"
+hover-cursor-fill-alpha = 0.07
+hover-cursor-border = "#00FF00"
+hover-cursor-border-width = 1
+hover-cursor-border-alpha = 0.65
+focus-color = "#00FF00"
+focus-fill-alpha = 0.09
+focus-border = "#00FF00"
+focus-border-width = 1
+focus-border-alpha = 1.0
+selected-color = "#00FF00"
+selected-fill-alpha = 0.14
+selected-border = "#00FF00"
+selected-border-width = "0 0 0 2"
+selected-border-alpha = 1.0
+pressed-fill-alpha = 0.20
+selection-fill-alpha = 0.22
+
+[spacing]
+scale = 1.0
+scale-with-font = true
+
+[font]
+base-size = 12
+
+[popups]
+background = "#000500"
+background-alpha = 0.96
+text = "#B8FFB8"
+border = "#007700"
+border-alpha = 1.0
+border-width = 1
+
+[tooltip]
+background = "#001A00"
+background-alpha = 0.98
+text = "#B8FFB8"
+border = "#007700"
+border-alpha = 1.0
+border-width = 1
+
+[notifications]
+background = "#000500"
+background-alpha = 0.96
+text = "#B8FFB8"
+border = "#00AA44"
+border-alpha = 1.0
+border-width = 1
+countdown = "#00FF00"
+
+[launcher]
+background = "#000500"
+background-alpha = 0.96
+text = "#B8FFB8"
+border = "#00AA44"
+border-alpha = 1.0
+border-width = 1
+scrim = "#000000"
+scrim-alpha = 0.65
+selected-background = "#003300"
+selected-background-alpha = 1.0
+selected-text = "#00FF00"
+selected-border = "#00FF00"
+selected-border-alpha = 1.0
+selected-border-width = "0 0 0 2"
+
+[menu]
+background = "#000500"
+background-alpha = 0.96
+text = "#B8FFB8"
+border = "#00AA44"
+border-alpha = 1.0
+border-width = 1
+scrim = "#000000"
+scrim-alpha = 0.65
+selected-background = "#003300"
+selected-background-alpha = 1.0
+selected-text = "#00FF00"
+selected-border = "#00FF00"
+selected-border-alpha = 1.0
+selected-border-width = "0 0 0 2"
+
+[polkit]
+background = "#000500"
+background-alpha = 0.98
+text = "#B8FFB8"
+text-error = "#FF4444"
+border = "#00FF00"
+border-error = "#FF4444"
+border-alpha = 1.0
+border-width = 1
+scrim = "#000000"
+scrim-alpha = 0.70
+accent = "#00FF00"
+
+[lock]
+background = "#000500"
+background-alpha = 0.90
+text = "#B8FFB8"
+placeholder = "#00AA44"
+text-error = "#FF4444"
+border = "#007700"
+border-active = "#00FF00"
+border-error = "#FF4444"
+border-alpha = 1.0
+border-width = 1
+selection = "#00FF00"
+selection-alpha = 0.22
+
+[image-picker]
+scrim = "#000000"
+scrim-alpha = 0.65
+text = "#B8FFB8"
+selected-border = "#00FF00"
+selected-border-alpha = 1.0
+unselected-border = "#007700"
+unselected-border-alpha = 0.65
